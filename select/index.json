@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "海の幽霊",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-08T10:06:28.932580Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "海の幽霊",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/01_海の幽霊_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "海の幽霊",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_海の幽霊_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "海の幽霊",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/03_海の幽霊_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "海の幽霊",
+      "artist": "AZKi",
+      "has_synced": true,
+      "path": "select/04_海の幽霊_AZKi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "海の幽霊",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_海の幽霊_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "海の幽霊",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/06_海の幽霊_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "海の幽霊",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/07_海の幽霊_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "海の幽霊 (Spirits of the Sea)",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/08_海の幽霊_(Spirits_of_the_Sea)_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "海の幽霊",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/09_海の幽霊_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "海の幽霊 - Spirits of the Sea",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/10_海の幽霊_-_Spirits_of_the_Sea_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "海の幽霊",
+      "artist": "米津玄师",
+      "has_synced": true,
+      "path": "select/11_海の幽霊_米津玄师.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Spirits of the Sea [海の幽霊]",
+      "artist": "Kenshi Yonezu [米津玄師]",
+      "has_synced": true,
+      "path": "select/12_Spirits_of_the_Sea_[海の幽霊]_Kenshi_Yonezu_[米津玄師].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海の幽霊",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_海の幽霊_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "海の幽霊",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_海の幽霊_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "海の幽霊",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_海の幽霊_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "海の幽霊",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_海の幽霊_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "海の幽霊",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_海の幽霊_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "海の幽霊",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_06_海の幽霊_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "海の幽霊",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_07_海の幽霊_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "海の幽霊",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_08_海の幽霊_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "海の幽霊",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_09_海の幽霊_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "海の幽霊",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_10_海の幽霊_米津玄師.txt"
+    }
+  ]
+}
